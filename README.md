@@ -9,9 +9,11 @@ Bootstrap is the most popular HTML, CSS, and JS framework for developing respons
 
 ## Features
 
-Combines all of the best features of HTML 5 Boilerplate and Bootstrap 3, proving you with a responsive grid framework and cross browser compatibility.
+Combines all of the best features of HTML 5 Boilerplate and Bootstrap 3.
 
 
 ## Documentation
 
 Documentation of HTML5 Boilerplate is included.
+
+Documentation of Bootstrap is not included but can be found [on their website](http://getbootstrap.com/getting-started/).
